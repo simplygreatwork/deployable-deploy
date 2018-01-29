@@ -65,7 +65,7 @@ Deployment.prototype = {
 
 const deployment = new Deployment({
 	// name : 'application',
-	repository: 'https://bitbucket.org/philmaker/deployable',
+	repository: 'https://github.com/simplygreatwork/deployable.git',
 	port : 80,
 	scale: 1
 });
