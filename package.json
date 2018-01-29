@@ -1,0 +1,10 @@
+{
+  "name": "kelda-test",
+  "version": "1.0.0",
+  "main": "./main.js",
+  "license": "MIT",
+  "dependencies": {
+    "kelda": "0.x"
+  },
+  "devDependencies": {}
+}
